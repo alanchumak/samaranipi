@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using samaranipi.Models;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder();
 
 // Add services to the container.
 
@@ -12,7 +12,7 @@ builder.Services.AddDbContext<MyAppContext>(opt =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-var app = builder.Build(); // в гитигонор бд, .vscode и bin?
+var app = builder.Build(); 
 
 app.MapControllerRoute(
     name: "default",
