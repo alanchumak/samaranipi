@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "LuhoigeainG6/ZqBGgt3pNrauQniZxzdGjmSn87uhts=",
+  "Source": "samaranipi",
+  "BasePath": "_content/samaranipi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "samaranipi\\wwwroot",
+      "Source": "samaranipi",
+      "ContentRoot": "F:\\test-task\\samaranipi\\wwwroot\\",
+      "BasePath": "_content/samaranipi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
