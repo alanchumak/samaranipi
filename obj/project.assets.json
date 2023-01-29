@@ -6073,11 +6073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\samaranipi.csproj",
+      "projectUniqueName": "f:\\samaranipi\\samaranipi.csproj",
       "projectName": "samaranipi",
-      "projectPath": "c:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\samaranipi.csproj",
+      "projectPath": "f:\\samaranipi\\samaranipi.csproj",
       "packagesPath": "C:\\Users\\Барак\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\obj\\",
+      "outputPath": "f:\\samaranipi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Барак\\AppData\\Roaming\\NuGet\\NuGet.Config",

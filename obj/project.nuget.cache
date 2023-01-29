@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2g8uCg44+WFwpW/5NmexGkq9ijx3wE3/lRqhG9P3vi0SLM0OFtFpBIzua4jdxXpSMceJ2ZeRXEGN3NMyNEzvYQ==",
+  "dgSpecHash": "tzmBdhYlHkoKDk+30BTD8bsdbjcqD2+2on+zN+ot7rmU0jsTJQCjqU5f3kgtk6yRZj9BCkOyqO4l3lf0b+6tZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\samaranipi.csproj",
+  "projectFilePath": "F:\\samaranipi\\samaranipi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Барак\\.nuget\\packages\\closedxml\\0.100.3\\closedxml.0.100.3.nupkg.sha512",
     "C:\\Users\\Барак\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",

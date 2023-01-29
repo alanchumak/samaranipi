@@ -23,8 +23,16 @@ public class ContractsController : Controller {
     public async Task<IEnumerable<Contract>> GetContracts()
         => await db.Contracts.ToListAsync();
     
-    public async Task<IEnumerable<ContractStage>> GetContractStages()
-        => await db.ContractStages.ToListAsync();
+    public async Task<IResult> GetContractStages(int id){
+        Contract? contract = await db.Contracts.FirstOrDefaultAsync(c=>c.Id == id);
+        if(contract == null)
+            return Results.NotFound(new { message = "Контракт не найден" });
+
+        var stages =  await db.ContractStages.Where(s => s.ContractId == id).ToListAsync();
+        stages.ForEach(s=> s.Contract = null);
+        return Results.Json(stages);
+        
+    }
 
     public async Task<IEnumerable<TableRow>> GetTableRows(){
         var contracts = await db.Contracts.Include(c => c.Stages).ToListAsync();

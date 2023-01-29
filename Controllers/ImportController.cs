@@ -1,14 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using samaranipi.Models;
 using ClosedXML.Excel;
-using System.Net;
 
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using System.IO;
-using Microsoft.AspNetCore.Hosting;
 
 namespace samaranipi.Controllers;
 

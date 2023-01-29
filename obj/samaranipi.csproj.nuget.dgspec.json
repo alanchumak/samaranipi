@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\samaranipi.csproj": {}
+    "F:\\samaranipi\\samaranipi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\samaranipi.csproj": {
+    "F:\\samaranipi\\samaranipi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\samaranipi.csproj",
+        "projectUniqueName": "F:\\samaranipi\\samaranipi.csproj",
         "projectName": "samaranipi",
-        "projectPath": "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\samaranipi.csproj",
+        "projectPath": "F:\\samaranipi\\samaranipi.csproj",
         "packagesPath": "C:\\Users\\Барак\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\obj\\",
+        "outputPath": "F:\\samaranipi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Барак\\AppData\\Roaming\\NuGet\\NuGet.Config",

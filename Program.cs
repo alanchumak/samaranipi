@@ -20,7 +20,7 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "1",
-    pattern: "api/{controller}/{action}");    
+    pattern: "api/{controller}/{action}/{id?}");    
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

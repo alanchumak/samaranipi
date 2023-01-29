@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XEZFtKmRJmP7bIE1Qxbz8htoqgneJpszQPmeFH2eqgo=",
+  "Hash": "76MMff8bmaxJuTAy+QhjP7y5NN0tqhKfC2ghpwHP76Q=",
   "Source": "samaranipi",
   "BasePath": "_content/samaranipi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "samaranipi\\wwwroot",
       "Source": "samaranipi",
-      "ContentRoot": "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\wwwroot\\",
+      "ContentRoot": "F:\\samaranipi\\wwwroot\\",
       "BasePath": "_content/samaranipi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\wwwroot\\1.txt",
+      "Identity": "F:\\samaranipi\\wwwroot\\1.txt",
       "SourceId": "samaranipi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Барак\\Documents\\test-tasks\\2\\samaranipi\\wwwroot\\",
+      "ContentRoot": "F:\\samaranipi\\wwwroot\\",
       "BasePath": "_content/samaranipi",
       "RelativePath": "1.txt",
       "AssetKind": "All",
